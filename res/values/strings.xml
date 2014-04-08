@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wingsofark</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="title_color">#0068B7</color>
+    <color name="view_background">#E9ECEC</color>
+    <color name="text_background">#FFFFFF</color>
+    <color name="word_color">#1B7AC3</color>
+    <color name="all_background">#C4E3FD</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name= "text_black">#000000</color>
+    <color name= "setting_background">#FFFFFF</color>
+
+</resources>
